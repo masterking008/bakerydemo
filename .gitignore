@@ -3,7 +3,6 @@
 *.log
 *.swp
 *.retry
-.env
 .idea
 .vscode
 *~
@@ -23,3 +22,4 @@ __pycache__
 /bakerydemo/cache
 !.gitignore
 bakerydemo/collect_static
+config.bat
